@@ -1,6 +1,8 @@
 giantleap_crawler
 =================
 
+Date: Summer 2013 USC
+
 project info:
   To crawl down data from website below:
   http://www.giantleap.us/progapp/list/
